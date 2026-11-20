@@ -1,0 +1,8 @@
+.local/
+*.o
+*.a
+*.out
+*.dSYM/
+minishell
+.vscode/
+.DS_Store
